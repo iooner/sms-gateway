@@ -26,7 +26,7 @@ Create an empty database to default location:
 # Usage
 
 From root directory, launch the gateway. It will use `/dev/ttyUSB2` by default. Path can be specified as first argument.
-`./src/sms-gateway [tty-path]`
+`./src/sms-gateway --device [tty-path]`
 
 
 # Tested hardware
